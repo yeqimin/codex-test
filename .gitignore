@@ -1,0 +1,12 @@
+target/
+build/
+dist/
+node_modules/
+.idea/
+*.log
+*.tmp
+*.class
+*.jar
+*.war
+*.ear
+.DS_Store
